@@ -8,7 +8,7 @@ namespace Pipelines
 		{
 			Console.WriteLine("Hello ");
 			Console.WriteLine("Build Piplines!");
-			Console.ReadLine()
+			Console.ReadLine();
 		}
 	}
 }
