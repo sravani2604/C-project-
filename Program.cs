@@ -6,8 +6,9 @@ namespace Pipelines
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello ");
-			Console.WriteLine("Build Piplines!");
+			Console.WriteLine("Hello world mindtree ");
+			Console.WriteLine("Welcome To Build Piplines!");
+			
 			Console.ReadLine();
 		}
 	}
